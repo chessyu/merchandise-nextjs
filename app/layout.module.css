@@ -1,0 +1,8 @@
+.layout {
+    height: 100vh;
+  }
+  
+  .site-layout-content{
+    height: 100%;
+    padding: 16px 0;
+  }
